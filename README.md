@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Degaga Emiru</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=degaga-emiru&label=Profile%20views&color=0e75b6&style=flat" alt="degaga-emiru" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=degaga-emiru" alt="degaga-emiru" /></a> </p>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <a href="https://twitter.com/degaga_emiru" target="blank"><img src="https://img.shields.io/twitter/follow/degaga_emiru?logo=twitter&style=for-the-badge" alt="degaga_emiru" /></a> </p>
 
@@ -15,8 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/degaga_emiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="degaga_emiru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/degaga-emiru96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="degaga-emiru96" height="30" width="40" /></a>
 <a href="https://fb.com/degaga_emiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="degaga_emiru" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/degaga emiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="degaga emiru" height="30" width="40" /></a>
+<a href="https://instagram.com/degaga emiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="degaga emiru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
