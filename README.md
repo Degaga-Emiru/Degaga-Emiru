@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Degaga Emiru</h1>
-<h3 align="center">🌟 A passionate frontend developer from Ethiopia! 🌟 Hey there! I'm Degaga, a Frontend Developer|| JavaScript Developer||, and Tailwind CSS|| enthusiast who can turn a blank screen into a fully functional website from scratch. Whether it's a sleek portfolio, an interactive web app, or a powerful organizational platform, I've got you covered. I specialize in building dynamic, responsive, and user-friendly applications with React, JavaScript, and Tailwind CSS. 💡 "Building the web, one component at a time!" 😄 Fun Fact: My code and coffee consumption are in a committed, long-term relationship. ☕💻 And yes, I might style my coffee with Tailwind CSS if I could! 😜</h3>
+<h3 align="center">🌟 A passionate full stack developer from Ethiopia! 🌟 Hey there! I specialize in building dynamic, responsive, and user-friendly applications with React, JavaScript, Java (Spring Boot) and Tailwind CSS. 💡 "Building the web, one component at a time!" </h3>
 
 <p align="left"> <a href="https://twitter.com/degaga_emiru" target="blank"><img src="https://img.shields.io/twitter/follow/degaga_emiru?logo=twitter&style=for-the-badge" alt="degaga_emiru" /></a> </p>
 
