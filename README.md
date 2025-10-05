@@ -10,7 +10,8 @@
 </p>
 
 
-- 🌱 I’m currently learning **full stack web development with Alx**
+- ⚙️ I’m currently working on **full-stack applications** while exploring **Java, Spring Boot, React, and cloud deployment**.
+
 
 - 📫 How to reach me **degagaemiru@gmail.com**
 
