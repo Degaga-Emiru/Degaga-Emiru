@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Degaga Emiru
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=600&lines=Backend+developer|Spring+Boot%2C;Java|JavaScript|Flutter%2C+Frontend+developer|React;Machine+Learning+Enthusiast;Building+Backend+System+for+Banking+Solution)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=600&lines=Backend+developer|Spring+Boot;%2CJava|JavaScript|Flutter;%2C+Frontend+developer|React;Machine+Learning+Enthusiast;Building+Backend+System+for+Banking+Solution)](https://git.io/typing-svg)
 
 
 <p align="left">
