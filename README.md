@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Degaga Emiru</h1>
-<h3 align="center">🌟 A passionate full stack developer from Ethiopia! 🌟 Hey there! I specialize in building dynamic, responsive, and user-friendly applications with React, JavaScript, Java (Spring Boot) and Tailwind CSS. 💡 "Building the web, one component at a time!" </h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=435&lines=Full+Stack+Developer;Frontend+Developer;Spring+Boot+Developer;Java+Developer;JavaScript+Developer)](https://git.io/typing-svg)
 <p align="left"> <a href="https://twitter.com/degaga_emiru" target="blank"><img src="https://img.shields.io/twitter/follow/degaga_emiru?logo=twitter&style=for-the-badge" alt="degaga_emiru" /></a> </p>
 
 - 🌱 I’m currently learning **full stack web development with Alx**
