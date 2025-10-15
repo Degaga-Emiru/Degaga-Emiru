@@ -21,8 +21,9 @@
 <a href="https://linkedin.com/in/degaga-emiru96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="degaga-emiru96" height="30" width="40" /></a>
 <a href="https://fb.com/degaga_emiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="degaga_emiru" height="30" width="40" /></a>
 <a href="https://instagram.com/degaga_emiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="degaga_emiru" height="30" width="40" /></a>
-<a href="https://t.me/siwayyeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="degaga_emiru" height="30" width="40" /></a>
+<a href="https://t.me/siwayyeee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="degaga_emiru" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
