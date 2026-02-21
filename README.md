@@ -1,13 +1,17 @@
 # 👋 Hi there, I'm Degaga Emiru  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=750&lines=Backend+Developer;Django+Developer;Spring+Boot+Developer;Node.js+%7C+Express.js;Mobile+Application+Developer;React+%7C+React+Native;Machine+Learning+Enthusiast;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=degaga-emiru&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F793&width=750&lines=Backend+Developer;Django+Developer;Spring+Boot+Developer;Node.js+%7C+Express.js;Mobile+Application+Developer;React+Native+%7C+Flutter;Machine+Learning+Enthusiast;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me  
 
 💻 Passionate **Full-Stack Developer** focused on building scalable backend systems and modern web & mobile applications.  
-⚙️ Experienced in **Java, Spring Boot, Django, Node.js, Express.js, React, and React Native**.  
+⚙️ Experienced in **Java, Spring Boot, Django, Node.js, Express.js, React, React Native, Flutter, and PHP**.  
 ☁️ Exploring cloud deployment, DevOps, and distributed system architecture.  
 🧠 Machine Learning enthusiast continuously learning and building intelligent systems.  
 
@@ -39,6 +43,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -67,7 +73,9 @@
 ## 📱 Mobile Development  
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -84,10 +92,11 @@
 
 ---
 
-## 🔧 DevOps & Tools  
+## 🔧 DevOps & Version Control  
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 </p>
 
@@ -102,11 +111,17 @@
 
 ---
 
+# 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/degaga-emiru/degaga-emiru/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🏆 Current Focus  
 
 - 🏦 Building scalable backend systems  
 - 📱 Developing cross-platform mobile applications  
 - ☁️ Learning advanced cloud deployment & DevOps  
 - 🤖 Exploring Machine Learning integration in real-world applications  
-
----
