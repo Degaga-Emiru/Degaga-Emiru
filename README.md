@@ -96,7 +96,7 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="filter: invert(1);"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 </p>
 
